@@ -1,6 +1,14 @@
 #### I'm an 18 year old programmer mainly interested in low level development and hacking
 
 
+#### Languages I have used:
+  - C
+  - x86 assembly
+  - JavaScript
+  - Python
+  - PHP (a little bit in CTFs)
+
+
 ### Some of my projects:
 
 #### Shell:
@@ -22,5 +30,8 @@
   A network stack for MentOS operating system  
   Goal: understand how the kernel deals with networking   
   https://github.com/wunderboyy/MentOS-network-stack
+  
+  
+##### I also have some webdev experience from completing the JavaScript course in The Odin Project
   
  
