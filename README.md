@@ -1,5 +1,9 @@
 #### I'm an 18 year old programmer mainly interested in low level development and hacking
 
+##### Most of the coding I have done has been in C and assembly, but I also have some webdev experience with javascript, from completing the javascript course in the The Odin Project: https://www.theodinproject.com/paths/full-stack-javascript?
+
+##### I also have some hacking experience from competing in CTFs, where I have used Python, PHP and JavaScript
+
 
 #### Languages I have used:
   - C
@@ -31,7 +35,5 @@
   Goal: understand how the kernel deals with networking   
   https://github.com/wunderboyy/MentOS-network-stack
   
-  
-##### I also have some webdev experience from completing the JavaScript course in The Odin Project
   
  
